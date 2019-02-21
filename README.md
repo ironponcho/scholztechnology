@@ -1,4 +1,4 @@
-"# scholztechnology" 
+# scholztechnology
 
 See this website live here: 
 http://scholz.technology/
